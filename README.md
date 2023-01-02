@@ -25,7 +25,7 @@ Here are three key terms you’ll need to understand to calculate your sample si
 
 - **Margin of error:** A percentage that tells you how much you can expect your survey results to reflect the views of the overall population. The smaller the margin of error, the closer you are to having the exact answer at a given confidence level.
 ![Margin-error](https://cdn.educba.com/academy/wp-content/uploads/2019/04/Margin-of-Error-Formula1-1.jpg)
-
+[**Margin Of error Calculator**](https://docs.google.com/spreadsheets/d/1VWBAsDPjEeIeuLQcpvPpn_oGmZqzf4Mf0jT8uiybfSY/edit?usp=sharing)
 - **Sampling confidence level:** A percentage that reveals how confident you can be that the population would select an answer within a certain range. For example, a 95% confidence level means that you can be 95% certain the results lie between x and y numbers.
 
 > if you want to calculate your margin of error, check out our [margin of error calculator](https://www.surveymonkey.com/mp/margin-of-error-calculator/)
